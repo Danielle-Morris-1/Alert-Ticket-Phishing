@@ -55,3 +55,4 @@ An alert was generated after a user opened a malicious file from a **phishing em
 - Alert severity rated as **Medium**, due to confirmed malware interaction.
 
 ---
+ > *"Swift analysis, informed escalation."*
